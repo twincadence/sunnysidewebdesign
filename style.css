@@ -1,0 +1,50 @@
+body {
+	background-color: #ffffff;
+	font-family: Trebuchet MS;
+	font-size: 20px;
+	color: #66ccff;
+
+}
+
+h1 {
+	font-family: Trebuchet MS;
+	font-size: 70px;
+	color: #66ccff;
+	text-align: center;
+	font-style: italic;
+}
+
+.introduction {
+	font-family: Trebuchet MS;
+	font-size: 25px;
+	color: #999999;
+	margin-right: : 40px;
+	margin-left: 40px;
+	text-align: center;
+	
+}
+
+.tammylitchfield {
+	text-align: center;
+
+
+}
+
+
+.Copyright {
+	text-align: center;
+	font-size: 15px;
+	color: #999999;
+}
+
+
+
+.contactinformation {
+	text-align: center;
+	font-size: 10px;
+	color: #999999;
+}
+		
+
+
+
